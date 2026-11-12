@@ -32,8 +32,10 @@ Each screenshot is the Outline, the tree on the left of the Mechanical window, w
 
 ## 1. Gear pair: the Outline, set up
 
-(add screenshot)
+<img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/7d1b79d5-af74-49f7-9367-ddc9e320409a" />
+
 
 ## 2. Slider-crank: the Outline, set up
 
-(add screenshot)
+<img width="357" height="545" alt="image" src="https://github.com/user-attachments/assets/4deae848-96a9-4b8c-ba8a-49a378df4156" />
+
